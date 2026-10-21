@@ -35,6 +35,6 @@ Tools
 
 Python · Pandas · NumPy · Kaggle Notebooks
 
-Conclusion
+# Conclusion
 
 This lab gave me practical experience preparing data, comparing customer groups, and interpreting churn rates. It also showed me how exploratory data analysis can reveal patterns worth investigating further when trying to understand why customers leave.
